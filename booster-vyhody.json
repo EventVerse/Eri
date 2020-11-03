@@ -1,0 +1,28 @@
+{
+  "embed": {
+    "title": "Booster | Výhody",
+    "color": 16576776,
+    "fields": [
+      {
+        "name": "⠀",
+        "value": "Všechny Booster Výhody:⠀"
+      },
+      {
+        "name": "🌈 | ➜ **Možnost vybrat si barvu**",
+        "value": "Možnost vybrat si vlastní barvu nicku"
+      },
+      {
+        "name": "🎉 | ➜ **Přístup k VIP Giveaways**",
+        "value": "Kanál s Giveawayema jenom pro VIP uživatele a boostery"
+      },
+      {
+        "name": "🗺️ | ➜ **Možnost používat emoty z jiných serverů**",
+        "value": "VIP Uživatelé můžou používat emoty z jiných serverů"
+      },
+      {
+        "name": "📖 | ➜ **Reklama**",
+        "value": "Možnost udělat si promo na tvůj projekt s pingem"
+      }
+    ]
+  }
+}
